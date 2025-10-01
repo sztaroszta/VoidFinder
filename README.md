@@ -94,7 +94,7 @@ python empty_folder_finder.py
 **2. Follow the GUI Prompts:**
 *   **Select Directory:** Click the "Browse..." button to choose a starting directory for the scan.
 *   **Monitor Progress:** A progress window will appear, showing the status of the scan. You can close this window at any time to cancel.
-    <p align="center"> <img src="assets/progress_window.png" alt="Monitor Progress" width="450"/> </p>
+    <p align="center"> <img src="assets/progress_window.png" alt="Monitor Progress" width="550"/> </p>
 *   **Review Results:** Once the scan is complete, the main window will populate with a list of empty folders. Click on any folder to see its details in the status panel on the right.
     <p align="center"> <img src="assets/main_ui.png" alt="Main User Interface" width="800"/> </p>
 *   **Take Action:**
@@ -102,7 +102,7 @@ python empty_folder_finder.py
     *   Click **"Open Folder"** to inspect it in your system's file manager.
     *   Click **"Move to Trash"** to delete the selected folders. You will be asked for confirmation.
 *   **View Summary:** After the move operation, a summary window will appear, detailing which folders were successfully moved and which failed. This text is copyable.
-    <p align="center"> <img src="assets/summary_report.png" alt="Shows the completion summary dialog" width="650"/> </p>
+    <p align="center"> <img src="assets/summary_report.png" alt="Shows the completion summary dialog" width="600"/> </p>
 
 ## Project Structure
 
@@ -169,4 +169,4 @@ Send those empty folders into the void! 🔥🕳️
 **Version:** 5  
 **Concept Date:** 2025-05-06 
 
-<p align="left"><img src="assets/empty_folder_finder_banner_2.png" alt="VoidFinder Banner 2" width="600"/> </p>
+<p align="left"><img src="assets/empty_folder_finder_banner_2.png" alt="VoidFinder Banner 2" width="500"/> </p>
